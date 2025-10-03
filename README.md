@@ -1,6 +1,6 @@
 # 🎙️ Podcast com IA - Feito por Letícia Andrade
 
-![Capa do Podcast]()
+![Capa do Podcast](Imagem_gerada_por_Gêmeos_j4awbyj4awbyj4aw.png)
 
 ---
 
