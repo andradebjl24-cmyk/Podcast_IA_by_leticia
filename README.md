@@ -41,7 +41,7 @@ O passo a passo do projeto incluiu:
 ---
 
 ## 🎧 Episódios
-- [Ouça o Episódio 1](saida/episodio1.mp3)  
+- [Ouça o Episódio 1](https://github.com/andradebjl24-cmyk/Podcast_IA_by_leticia/tree/084be8de5cb2cb4de55655ab9e14c2650f09bdc2/output)  
 
 ---
 
