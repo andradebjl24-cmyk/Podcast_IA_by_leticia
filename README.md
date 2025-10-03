@@ -33,7 +33,7 @@ Resumindo: quanto melhor o prompt, melhor será a resposta da IA.
 ---
 
 ## 🎧 Ouça o Episódio 1
-[Abrir/baixar áudio](saida/episodio1.mp3)
+[Abrir/baixar áudio](https://github.com/andradebjl24-cmyk/Podcast_IA_by_leticia/tree/f8d864d3315e033c54d421b0c00e83c532bd6e35/output)
 
 ---
 
